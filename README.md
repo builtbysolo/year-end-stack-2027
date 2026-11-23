@@ -104,8 +104,9 @@ Sponsored slots will appear here, clearly labeled, and never change the
 ordering of the free list. *(Not open yet — the list is in a 7-day public test.)*
 
 ## Get the 2027 stack checklist
-Newsletter signup: **coming with public launch** — one email when the list
-closes on Dec 31, with the final stack and what actually held its price.
+**[Subscribe here](https://builtbysolo.beehiiv.com/subscribe)** — one email
+when the list closes on Dec 31, with the final stack and what actually held
+its price. No weekly spam; this list sends once.
 
 ## Disclaimer
 Prices and discounts change fast and some offers are region-locked. Always
